@@ -1,7 +1,7 @@
 # Hyrule Jobs
 
 A short vue.js project to emphasize the use of type script and transition action
-!(assets/hyrulejobsgif.gif)
+#![hyrule jobs site](assets/hyrulejobsgif.gif)
 
 ## Recommended IDE Setup
 
